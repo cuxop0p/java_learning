@@ -7,7 +7,7 @@ public class Main {
         String name = "Ari";
         String color = "grau";
         String job = "nichts";
-        String age = "20";
+        int age = 20;
         String adresse = "Winfriedstraße 8";
         String city = "München";
         String boyfriend = "Kurt";
